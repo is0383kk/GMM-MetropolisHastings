@@ -1,4 +1,4 @@
-# GMM-MetropolisHastings-
+# GMM-MetropolisHastings
 Implementation of a Gaussian mixture model with Metropolis-Hastings algorithm.  
 
 # How to run
