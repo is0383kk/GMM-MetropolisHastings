@@ -1,5 +1,6 @@
 # GMM-MetropolisHastings
 Implementation of a Gaussian mixture model with Metropolis-Hastings algorithm.  
+メトロポリスヘイスティングス法を適用したガウス混合モデルの実装例
 
 # How to run
 
