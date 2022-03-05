@@ -27,7 +27,7 @@ The image below shows the number of acceptances per iteration.
 # Appendix
 Other examples of implementations using GMM are as follows  
 1. [GMM with Gibbssampling](https://github.com/is0383kk/GMM-Gibbs)
-2. [GMM with Metropolis-Hastings Algorithm](https://github.com/is0383kk/GMM-MetropolisHasting)
+2. [GMM with Metropolis-Hastings Algorithm](https://github.com/is0383kk/GMM-MetropolisHastings)
 3. [Multimodal-GMM](https://github.com/is0383kk/Multimodal-GMM)
 4. [Multimodal-GMM with Metropolis-Hastings Algorithm](https://github.com/is0383kk/Inter-GMM)
 5. [VAE and GMM mutual learning model](https://github.com/is0383kk/Pytorch_VAE-GMM)
